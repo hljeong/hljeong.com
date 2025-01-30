@@ -2,3 +2,12 @@ baseURL: http://hljeong.com/
 languageCode: en-us
 title: hljeong
 theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: ho lyun jeong
+    Content: hi im lucas. i write code and do other things sometimes
+
+  socialIcons:
+    - name: github
+      url: https://github.com/hljeong
