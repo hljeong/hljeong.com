@@ -1,6 +1,7 @@
 ---
 title: "c++ template-like invocation in python"
 date: 2025-01-29T23:05:11-08:00
+tags: ["computer science"]
 ---
 
 so the other day for whatever reason i really wanted to invoke python functions as if they were c++ template functions... like so:
