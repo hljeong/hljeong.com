@@ -1,7 +1,9 @@
 baseURL: http://hljeong.com/
 languageCode: en-us
 title: hljeong
-theme: ["PaperMod"]
+titleCaseStyle: 'none'
+theme:
+- PaperMod
 
 params:
   homeInfoParams:
@@ -11,3 +13,6 @@ params:
   socialIcons:
     - name: github
       url: https://github.com/hljeong
+
+  customCSS:
+    - assets/css/extended/custom.css

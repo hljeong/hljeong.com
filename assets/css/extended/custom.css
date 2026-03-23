@@ -1,0 +1,4 @@
+.term-tags a,
+.post-tags a {
+  text-transform: none !important;
+}
