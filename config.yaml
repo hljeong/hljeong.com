@@ -16,3 +16,5 @@ params:
 
   customCSS:
     - assets/css/extended/custom.css
+
+  math: true
